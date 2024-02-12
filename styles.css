@@ -30,15 +30,17 @@ body {
 
 .adviceBtn {
   margin-top: 20px;
-  position: absolute;
   cursor: pointer;
   background-color: #FFE8C2;
   border-radius: 8px;
-  width: 500px;
+  width: 100%;
+  max-width: 500px;
   height: 64px;
   font-weight: 600;
   font-size: 24px;
-  margin-left: 510px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 .dice-img:hover {
@@ -55,5 +57,5 @@ body {
 }
 
 .loading {
-  text-align: center; /* Center the loading text */
+  text-align: center;
 }
