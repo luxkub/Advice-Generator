@@ -4,10 +4,10 @@ Welcome to version 1.0.0 of Winnie's Advice Generator! This README provides an o
 
 ## Table of Contents
 
-- [# Features](#features)
-- [# Installation](#installation)
-- [# Usage](#usage)
-- [# Contributing](#contributing)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
 ## Features
 
